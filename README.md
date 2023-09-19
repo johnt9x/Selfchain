@@ -2,7 +2,7 @@
 - Chain ID:self-dev-1
 - Port: 113
 - Version: 0.2.2
-MONIKER=Yourmoniker
+MONIKER="Yourmoniker"
 - Update and install packages for compiling
 ```
 sudo apt update
